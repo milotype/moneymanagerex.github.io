@@ -31,6 +31,7 @@ toc: true
     - Ivan Gyokov, Poltargaista
 - Croatian
     - Goran Bobanovic
+    - Milo Ivir
 - Czech
     - Josef Remes, PepaR
 - Dutch
